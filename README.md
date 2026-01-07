@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+🌍 Online Tour & Travel Website
 
-## Project info
+A modern and responsive Online Tour & Travel Website built using React, Redux Toolkit, and Tailwind CSS.
+The project provides a clean UI for browsing destinations, viewing tour packages, and managing bookings, with a scalable architecture suitable for real-world applications.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🚀 Features
+Home page with featured destinations and tour packages
+Destination listing with filters and sorting
+Tour package listing with categories
+Package details page with itinerary and pricing
+Booking flow (UI-based)
+User authentication (mock)
+Protected routes
+User dashboard with booking history
+Admin dashboard for managing packages and bookings
+Fully responsive design
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+🛠 Tech Stack
+React (JSX)
+Redux Toolkit
+React Router DOM
+Tailwind CSS
+Vite
+JavaScript (ES6+)
 
-**Use Lovable**
+⚙️ Installation & Setup
+Prerequisites
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Node.js
 
-Changes made via Lovable will be committed automatically to this repo.
+npm
 
-**Use your preferred IDE**
+# Clone the repository
+git clone <YOUR_GITHUB_REPO_URL>
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+# Navigate to the project directory
+cd online-tour-website
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+# Install dependencies
+npm install
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+🔐 Authentication & Routing
+Role-based protected routing
+User routes: Profile, Bookings
+Admin routes: Dashboard, Package Management
+Unauthorized users are redirected to login
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🎨 UI & Design
+Tailwind CSS for styling
+Mobile-first responsive layout
+Reusable components
+Smooth hover effects and transitions
 
-**Use GitHub Codespaces**
+🌟 Future Enhancements
+Backend integration (Node.js / Firebase)
+Real authentication & authorization
+Payment gateway integration
+Reviews & ratings system
+Wishlist feature
+Multi-language support
+Dark mode
+SEO optimization
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📌 Project Purpose
+This project is built for:
+Learning React & Redux Toolkit
+Frontend development practice
+Portfolio showcase
+Interview preparation
