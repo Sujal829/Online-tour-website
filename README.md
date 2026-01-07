@@ -93,11 +93,6 @@ src/
 
 <hr/>
 
-<h2>📸 Screenshots</h2>
-<p>
-  <em>Add screenshots here to showcase the UI</em>
-</p>
-
 <hr/>
 
 <h2>📈 Future Enhancements</h2>
