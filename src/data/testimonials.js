@@ -1,0 +1,38 @@
+export const testimonialsData = [
+  {
+    id: 'test-1',
+    name: 'Sarah Johnson',
+    location: 'New York, USA',
+    avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100',
+    rating: 5,
+    text: 'TravelWorld made our family vacation absolutely perfect. From booking to the last day, everything was seamless. The kids still talk about the Maldives trip!',
+    tripType: 'Family Vacation',
+  },
+  {
+    id: 'test-2',
+    name: 'David Chen',
+    location: 'Singapore',
+    avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100',
+    rating: 5,
+    text: 'I\'ve traveled with many companies, but TravelWorld stands out. Their attention to detail and customer service is unmatched. The Bali adventure package was incredible!',
+    tripType: 'Adventure',
+  },
+  {
+    id: 'test-3',
+    name: 'Emma Williams',
+    location: 'London, UK',
+    avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100',
+    rating: 5,
+    text: 'Our honeymoon in Paris was like a fairy tale. Every restaurant, every tour was perfectly curated. Thank you for making our special trip unforgettable!',
+    tripType: 'Honeymoon',
+  },
+  {
+    id: 'test-4',
+    name: 'Marco Rossi',
+    location: 'Milan, Italy',
+    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100',
+    rating: 5,
+    text: 'As a solo traveler, I was looking for a safe and fun way to explore Japan. TravelWorld\'s solo package exceeded my expectations. Made friends for life!',
+    tripType: 'Solo Travel',
+  },
+];
